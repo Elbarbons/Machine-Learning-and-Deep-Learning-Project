@@ -3,8 +3,8 @@
 ## Overview
 This repository contains the implementation of our visual place recognition model for geolocalization, building on the work by Ali-Bey et al. The project focuses on two primary enhancements:
 
-Adjusted Miner Behavior: Reclassifying certain negative images as positive based on proximity to improve model robustness.
-Model Comparison: Evaluating various combinations of miners and loss functions to determine the best configuration.
+- Adjusted Miner Behavior: Reclassifying certain negative images as positive based on proximity to improve model robustness.
+- Model Comparison: Evaluating various combinations of miners and loss functions to determine the best configuration.
 
 ## Repository Contents
 - Code: In the *Source* folder can be found implementation of the visual place recognition model with both traditional and new methodologies.
